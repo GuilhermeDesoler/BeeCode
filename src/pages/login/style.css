@@ -1,0 +1,33 @@
+.teste {
+  height: 70%;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* border: 1px solid black; */
+  /* background: orange; */
+}
+
+h2 {
+  margin-bottom: 30px;
+  font-size: 32px;
+}
+
+span {
+  margin: 10px 0;
+}
+
+.Message {
+  padding: 15px 0 0 0;
+}
+
+a {
+  margin-left: 5px;
+  text-decoration: none;
+}
+
+a:hover {
+  cursor: pointer;
+  color: orange;
+}
